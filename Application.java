@@ -16,6 +16,17 @@ export  function App()
     </View>
 
        
+
+        crossorigin="anonymous"></script>
+#feature2.1 changes made by developer by vivek in hdfc bank in oct 2022
+export default function App() 
+  return (
+    <View>
+          <Home/>
+    </View>
+  );
+        
+ sat
 </head>
 
 <body>
