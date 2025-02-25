@@ -9,7 +9,7 @@
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script
 #feature2.2 changes added by sathwik
-export default function App() 
+export  function App() 
   return 
     <View>
           <Home/>
